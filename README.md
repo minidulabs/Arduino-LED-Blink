@@ -28,6 +28,7 @@ void loop() {
 }
 
 
-![led-blink-diagram](https://github.com/user-attachments/assets/d092cdf1-38ba-43e6-afe8-70110d620913)
+![LED Blink Circuit](led-blink-diagram.png)
+
 
 
