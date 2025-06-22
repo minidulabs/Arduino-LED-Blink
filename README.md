@@ -10,6 +10,10 @@ It’s a simple example to demonstrate how to use `digitalWrite()` and `delay()`
 - Breadboard and jumper wires
 
 ## Circuit Diagram
+
+![LED Blink Circuit](led-blink-diagram.png)
+
+## Circuit Diagram
 - Connect the anode (+) of the LED to **pin 13**
 - Connect the cathode (-) through a **220Ω resistor** to **GND**
 
@@ -28,7 +32,7 @@ void loop() {
 }
 
 
-![LED Blink Circuit](led-blink-diagram.png)
+
 
 
 
