@@ -26,7 +26,7 @@ void loop() {
   digitalWrite(13, LOW);  // turn the LED off
   delay(1000);            // wait 1 second
 }
-## 🖼 Circuit Diagram
+
 
 ![LED Blink Circuit](led-blink-diagram.png)
 
